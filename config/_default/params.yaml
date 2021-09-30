@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: minimal
+theme: mr robot
 day_night: true
-font: ''
+font: minimal
 font_size: L
 
 # SEO
@@ -15,8 +15,8 @@ font_size: L
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
-twitter: ''
+description: 'Professor at University of Edinburgh'
+twitter: 'martincorley'
 
 # Contact (edit or remove options as required)
 

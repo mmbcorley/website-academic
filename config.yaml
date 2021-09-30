@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Martin Corley # Website name
+title: 'Martin Corley' # Website name
 baseurl: 'https://martincorley.org/' # Website URL
 copyright: '© {year} MC' # Footer text, e.g. '© {year} Me'
 
