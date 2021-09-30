@@ -1,39 +1,36 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Martin Corley
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Professor of Speech, Language, and Cognition
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Edinburgh
+  url: http://www.psy.ed.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include speech production and comprehension, with a focus on speech errors and disfluency.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Human Speech
+- Psycholinguistics
+- Psychological Methods
 
 # Education to show in About widget
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+#education:
+#  courses:
+#  - course: PhD in Psychology
+#    institution: University of Exeter
+#    year: 1996
+#  - course: MA in Psychology and Linguistics
+#    institution: University of Edinburgh
+#    year: 1989
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,16 +42,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  link: https://twitter.com/martincorley
+- icon: graduation-cap  # Alternatively, use `graduation-cap` icon from `fas` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://scholar.google.co.uk/citations?user=S8CNvAMAAAAJ
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -69,9 +66,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+My research focuses on human communication, and in particular on the ways in which speech is produced and understood.  Among other techniques, I use ultrasound imaging of the midsagittal tongue contour to investigate the production of speech errors that might not otherwise be detected, and eyetracking and EEG to measure the ways in which listeners respond to disfluent speech.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
